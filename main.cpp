@@ -8,6 +8,7 @@ QApplication app(argc, argv);
 QPushButton button("Hello, World!");
 button.resize(200, 60);
 button.show( );
+//master
  
 return app.exec( );
 }
